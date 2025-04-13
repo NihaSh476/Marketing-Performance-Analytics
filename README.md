@@ -1,4 +1,4 @@
-# 📊 Marketing Performance Analytics Dashboard
+# 📊 Marketing Performance Analytics
 
 # 🎯 Objective
 The goal of this project is to design a comprehensive Marketing Performance Analytics Dashboard that enables stakeholders to monitor campaign efficiency, analyze ROI, and optimize marketing strategies across multiple channels, products, and regions. The dashboard turns raw campaign data into actionable insights for data-driven decision-making.
